@@ -18,4 +18,6 @@ As illustrated in the figure below, we propose an **Asynchronous Pseudo-labeling
 
 - **Offline Pseudo-labeling Phase**
 - **Online Model Training Phase**
-![Framework](your_framework_image_path_here.png)
+
+
+![Framework](APLT.png)
