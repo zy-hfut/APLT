@@ -11,3 +11,11 @@ Specifically, we introduce a semi-supervised clustering method during the offlin
 Experiments on three MAR datasets show that our APLT significantly outperforms state-of-the-art SSL methods. For instance, APLT improves accuracy by 14.5% over FixMatch on the MA-12 dataset when using only 50% labeled data.
 
 ---
+
+## ⚙️ Method Overview
+
+As illustrated in the figure below, we propose an **Asynchronous Pseudo-labeling and Training (APLT)** framework tailored for **Semi-Supervised Micro-Action Recognition (SSMAR)**. The framework consists of two alternating phases:
+
+- **Offline Pseudo-labeling Phase**
+- **Online Model Training Phase**
+![Framework](your_framework_image_path_here.png)
